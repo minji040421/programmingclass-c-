@@ -127,12 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10번 문제(2).cpp" />
+    <ClCompile Include="10번 문제(Calculator.cpp).cpp" />
     <ClCompile Include="10번 문제.cpp" />
     <ClCompile Include="11번 문제.cpp" />
     <ClCompile Include="12번 문제.cpp" />
     <ClCompile Include="1번 문제.cpp" />
     <ClCompile Include="2번 문제.cpp" />
     <ClCompile Include="Box.cpp" />
+    <ClCompile Include="Calculator.cpp" />
     <ClCompile Include="c미쳼색.cpp" />
     <ClCompile Include="Ram.cpp" />
     <ClCompile Include="예제 3-1추가 문제.cpp" />
@@ -153,6 +156,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Box.h" />
+    <ClInclude Include="Calculator.h" />
     <ClInclude Include="Ram.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
