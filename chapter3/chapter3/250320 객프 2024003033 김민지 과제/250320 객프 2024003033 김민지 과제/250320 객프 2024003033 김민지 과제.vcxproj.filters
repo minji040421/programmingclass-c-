@@ -84,12 +84,24 @@
     <ClCompile Include="Ram.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10번 문제(2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10번 문제(Calculator.cpp).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Box.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Ram.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculator.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
