@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\prac1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44B3C4-C288-460B-B8C5-E2DB881BBC91}|1-2\\1-2.vcxproj|C:\\Users\\hp\\Desktop\\prac1\\1-2\\4\uBC88 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D44B3C4-C288-460B-B8C5-E2DB881BBC91}|1-2\\1-2.vcxproj|solutionrelative:1-2\\4\uBC88 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44B3C4-C288-460B-B8C5-E2DB881BBC91}|1-2\\1-2.vcxproj|C:\\Users\\hp\\Desktop\\prac1\\1-2\\3\uBC88 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D44B3C4-C288-460B-B8C5-E2DB881BBC91}|1-2\\1-2.vcxproj|solutionrelative:1-2\\3\uBC88 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44B3C4-C288-460B-B8C5-E2DB881BBC91}|1-2\\1-2.vcxproj|C:\\Users\\hp\\Desktop\\prac1\\1-2\\me.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D44B3C4-C288-460B-B8C5-E2DB881BBC91}|1-2\\1-2.vcxproj|solutionrelative:1-2\\me.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2A638C-7ABC-4CA5-A750-1E5C7A7C8044}|1-1\\1-1.vcxproj|C:\\Users\\hp\\Desktop\\prac1\\1-1\\name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B2A638C-7ABC-4CA5-A750-1E5C7A7C8044}|1-1\\1-1.vcxproj|solutionrelative:1-1\\name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4\uBC88 \uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\prac1\\1-2\\4\uBC88 \uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "1-2\\4\uBC88 \uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\prac1\\1-2\\4\uBC88 \uBB38\uC81C.cpp",
+              "RelativeToolTip": "1-2\\4\uBC88 \uBB38\uC81C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T09:34:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3\uBC88 \uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\prac1\\1-2\\3\uBC88 \uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "1-2\\3\uBC88 \uBB38\uC81C.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\prac1\\1-2\\3\uBC88 \uBB38\uC81C.cpp",
+              "RelativeToolTip": "1-2\\3\uBC88 \uBB38\uC81C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T09:34:13.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "me.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\prac1\\1-2\\me.cpp",
+              "RelativeDocumentMoniker": "1-2\\me.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\prac1\\1-2\\me.cpp",
+              "RelativeToolTip": "1-2\\me.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T09:13:57.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "name.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\prac1\\1-1\\name.cpp",
+              "RelativeDocumentMoniker": "1-1\\name.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\prac1\\1-1\\name.cpp",
+              "RelativeToolTip": "1-1\\name.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T09:12:22.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
